@@ -4,9 +4,12 @@
 
 \## Thông tin sinh viên
 
-\- Họ tên:Phạm Minh Khoa	
+\- Họ tên:Phạm Minh Khoa
 
-\- MSSV:102230247	
+\- MSSV:102230247
 
 \- Lớp:23T-DT2
+## Mục tiêu
+
+Tìm hiểu Git và GitHub.
 
