@@ -4,11 +4,14 @@
 
 \## Thông tin sinh viên
 
-\- Họ tên:Phạm Minh Khoa
+\- Họ tên: Nguyễn Văn A
 
-\- MSSV:102230247
+\- MSSV: 2212345
 
-\- Lớp:23T-DT2
+\- Lớp: CNTT01
+
+\- GitHub: Khoa35734
+
 ## Mục tiêu
 
 Tìm hiểu Git và GitHub.
